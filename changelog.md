@@ -81,6 +81,14 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Editor/Toolbar/ElementPositionPanel.vue` to english.
 - Translated `src/views/Editor/Toolbar/index.vue` to english.
 - Translated `src/views/Editor/Toolbar/MultiPositionPanel.vue` to english.
+- Translated `src/views/Editor/Toolbar/MultiStylePanel.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
