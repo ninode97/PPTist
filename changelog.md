@@ -22,7 +22,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/configs/element.ts` to english.
 - Translated `src/configs/font.ts` to english.
 - Translated `src/configs/hotkey.ts` to english.
-
+- Translated `src/configs/imageClip.ts` to english.
 
 
 
