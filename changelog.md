@@ -32,7 +32,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/hooks/useLink.ts` to english.
 - Translated `src/hooks/useSearch.ts` to english.
 - Translated `src/services/config.ts` to english.
-- Translated `src/hooks/x.ts` to english.
+- Translated `src/store/slides.ts` to english.
 - Translated `src/hooks/x.ts` to english.
 - Translated `src/hooks/x.ts` to english.
 - Translated `src/hooks/x.ts` to english.
