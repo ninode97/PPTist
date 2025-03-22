@@ -16,6 +16,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/components/ColorPicker/index.vue` to english.
 - Translated `src/components/LaTeXEditor/index.vue` to english.
 - Translated `src/components/OutlineEditor.vue` to english.
+- Translated `src/components/Select.vue` to english.
 
 ### Fixed
 - 
