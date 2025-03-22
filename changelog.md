@@ -11,7 +11,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Added `changelog.md` to track all changes done to this repository.
 
 ### Changed
-- 
+- Translated `index.html` to english.
 
 ### Fixed
 - 
