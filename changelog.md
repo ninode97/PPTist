@@ -25,8 +25,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/configs/imageClip.ts` to english.
 - Translated `src/configs/latex.ts` to english.
 - Translated `src/configs/lines.ts` to english.
-
-
+- Translated `src/configs/shapes.ts` to english.
 
 
 ### Fixed
