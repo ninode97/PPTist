@@ -61,7 +61,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Editor/Toolbar/common/ElementFilter.vue` to english.
 - Translated `src/views/Editor/Toolbar/common/ElementFlip.vue` to english.
 - Translated `src/views/Editor/Toolbar/common/ElementOpacity.vue` to english.
-- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/Editor/Toolbar/common/ElementOutline.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
