@@ -19,6 +19,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/components/Select.vue` to english.
 - Translated `src/configs/animation.ts` to english.
 - Translated `src/configs/chart.ts` to english.
+- Translated `src/configs/element.ts` to english.
 
 ### Fixed
 - 
