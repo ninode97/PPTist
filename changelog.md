@@ -35,7 +35,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/store/slides.ts` to english.
 - Translated `src/utils/clipboard.ts` to english.
 - Translated `src/views/components/element/TableElement/EditableTable.vue` to english.
-- Translated `src/hooks/x.ts` to english.
+- Translated `src/views/components/element/TableElement/index.vue` to english.
 - Translated `src/hooks/x.ts` to english.
 - Translated `src/hooks/x.ts` to english.
 
