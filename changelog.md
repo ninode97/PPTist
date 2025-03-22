@@ -95,7 +95,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Mobile/MobilePreview.vue` to english.
 - Translated `src/views/Screen/hooks/useExecPlay.ts` to english.
 - Translated `src/views/Screen/BaseView.vue` to english.
-- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/Screen/CountdownTimer.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
