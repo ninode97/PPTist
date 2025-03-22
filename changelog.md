@@ -57,7 +57,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Editor/Remark/Editor.vue` to english.
 - Translated `src/views/Editor/Thumbnails/index.vue` to english.
 - Translated `src/views/Editor/Thumbnails/Templates.vue` to english.
-- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/Editor/Toolbar/common/ElementColorMask.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
