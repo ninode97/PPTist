@@ -20,7 +20,7 @@
         :value="lineHeight || 1"
         @update:value="value => updateLineHeight(value as number)"
         :options="lineHeightOptions.map(item => ({
-          label: item + '倍', value: item
+          label: item + 'x', value: item
         }))"
       >
         <template #icon>
