@@ -47,7 +47,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Editor/CanvasTool/index.vue` to english.
 - Translated `src/views/Editor/CanvasTool/MediaInput.vue` to english.
 - Translated `src/views/Editor/CanvasTool/TableGenerator.vue` to english.
-- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/Editor/EditorHeader/index.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
