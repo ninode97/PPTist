@@ -92,7 +92,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Mobile/MobileEditor/Header.vue` to english.
 - Translated `src/views/Mobile/MobileEditor/SlideToolbar.vue` to english.
 - Translated `src/views/Mobile/MobilePlayer.vue` to english.
-- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/Mobile/MobilePreview.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
