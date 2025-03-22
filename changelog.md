@@ -42,7 +42,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/views/Editor/Canvas/Operate/LinkHandler.vue` to english.
 - Translated `src/views/Editor/Canvas/EditableElement.vue` to english.
 - Translated `src/views/Editor/Canvas/index.vue` to english.
-- Translated `src/views/x/x/x.vue` to english.
+- Translated `src/views/Editor/Canvas/LinkDialog.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
 - Translated `src/views/x/x/x.vue` to english.
