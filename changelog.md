@@ -27,7 +27,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Translated `src/configs/lines.ts` to english.
 - Translated `src/configs/shapes.ts` to english.
 - Translated `src/configs/symbol.ts` to english.
-
+- Translated `src/hooks/useExport.ts` to english.
 
 
 
