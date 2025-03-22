@@ -12,6 +12,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 
 ### Changed
 - Translated `index.html` to english.
+- Translated `src/App.vue` to english.
 
 ### Fixed
 - 
