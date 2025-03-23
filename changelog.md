@@ -29,6 +29,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Hidden `Switch, Animation` from `right-hand sidebar`. 
 - Hidden `Insert forumula` from center menu within top bar.
 - Hidden `Start from scratch, Start from current page` from top right-hand sidebar menu.
+- Hidden `Editor for Remarks` bottom center Editor for remarks.
 
 
 
