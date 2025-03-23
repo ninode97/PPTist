@@ -70,7 +70,7 @@
         </template>
         <IconInsertTable class="handler-item" v-tooltip="'Insert a table'" />
       </Popover>
-      <IconFormula class="handler-item" v-tooltip="'Insert formula'" @click="latexEditorVisible = true" />
+      <!-- <IconFormula class="handler-item" v-tooltip="'Insert formula'" @click="latexEditorVisible = true" /> -->
       <!-- <Popover trigger="click" v-model:value="mediaInputVisible" :offset="10">
         <template #content>
           <MediaInput 

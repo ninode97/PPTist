@@ -27,6 +27,8 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Hidden `Feedback` within left top-bar menu.
 - Hidden `Frequently asked questions` within left top-bar menu.
 - Hidden `Switch, Animation` from `right-hand sidebar`. 
+- Hidden `Insert forumula` from center menu within top bar.
+
 
 ### Fixed
 - 
