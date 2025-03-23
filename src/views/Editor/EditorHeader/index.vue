@@ -56,10 +56,10 @@
           <div class="arrow-btn"><IconDown class="arrow" /></div>
         </Popover>
       </div>
-      <div class="menu-item" v-tooltip="'Generate AI PPT'" @click="openAIPPTDialog(); mainMenuVisible = false">
+      <!-- <div class="menu-item" v-tooltip="'Generate AI PPT'" @click="openAIPPTDialog(); mainMenuVisible = false">
         <span class="text ai">AI</span>
-      </div>
-      <div class="menu-item" v-tooltip="'Export'" @click="setDialogForExport('pptx')">
+      </div> -->
+      <div class="menu-item" v-tooltip="'Export'" @click="setDialogForExport('pdf')">
         <IconDownload class="icon" />
       </div>
       <a class="github-link" v-tooltip="'Copyright © 2020-PRESENT pipipi-pikachu'" href="https://github.com/pipipi-pikachu/PPTist" target="_blank">

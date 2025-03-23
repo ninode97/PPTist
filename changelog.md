@@ -15,6 +15,8 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Incremented version in `package.json`, `package-lock.json`.
 - Hidden `Annotation Panel` control.
 - Hidden exports of `PPTist, pptx, image, json` to keep only PDF export.
+- Set PDF export as default when clicking `Export`.
+- Hidden `AI` control in the top bar.
 
 ### Fixed
 - 
