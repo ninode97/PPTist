@@ -12,14 +12,14 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 -
 
 ### Changed
-- 
-
+- Incremented version in `package.json`, `package-lock.json`.
+- Hidden `Annotation Panel` control.
 
 ### Fixed
 - 
 
 ### Removed
-- 
+-
 
 
 
