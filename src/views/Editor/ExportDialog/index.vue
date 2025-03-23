@@ -45,11 +45,11 @@ const tabs: TabItem[] = [
 
 const currentDialogComponent = computed<unknown>(() => {
   const dialogMap = {
-    'image': ExportImage,
-    'json': ExportJSON,
+    // 'image': ExportImage,
+    // 'json': ExportJSON,
     'pdf': ExportPDF,
-    'pptx': ExportPPTX,
-    'pptist': ExportSpecificFile,
+    // 'pptx': ExportPPTX,
+    // 'pptist': ExportSpecificFile,
   }
   if (dialogForExport.value) return dialogMap[dialogForExport.value] || null
   return null
