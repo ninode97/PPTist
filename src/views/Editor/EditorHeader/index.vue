@@ -18,7 +18,7 @@
           </FileInput> -->
           <PopoverMenuItem @click="setDialogForExport('pdf')">Export</PopoverMenuItem>
           <!-- <PopoverMenuItem @click="resetSlides(); mainMenuVisible = false">Reset Slideshow</PopoverMenuItem> -->
-          <PopoverMenuItem @click="openMarkupPanel(); mainMenuVisible = false">Slide type label</PopoverMenuItem>
+          <!-- <PopoverMenuItem @click="openMarkupPanel(); mainMenuVisible = false">Slide type label</PopoverMenuItem> -->
           <PopoverMenuItem @click="goLink('https://github.com/pipipi-pikachu/PPTist/issues')">Feedback</PopoverMenuItem>
           <PopoverMenuItem @click="goLink('https://github.com/pipipi-pikachu/PPTist/blob/master/doc/Q&A.md')">Frequently asked questions</PopoverMenuItem>
           <PopoverMenuItem @click="mainMenuVisible = false; hotkeyDrawerVisible = true">Quick Operations</PopoverMenuItem>

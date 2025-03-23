@@ -23,7 +23,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Changed label of `Exporting Files` to `Export` within `right-hand` side top bar menu.
 - Changed export type to `pdf` when clicking `Export` within top-left control bar.
 - Hidden `Reset slideshow` within left top-bar menu. 
-
+- Hidden `Slide type label` within left top-bar menu.
 
 ### Fixed
 - 
