@@ -25,6 +25,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Hidden `Reset slideshow` within left top-bar menu. 
 - Hidden `Slide type label` within left top-bar menu.
 - Hidden `Feedback` within left top-bar menu.
+- Hidden `Frequently asked questions` within left top-bar menu.
 
 ### Fixed
 - 
