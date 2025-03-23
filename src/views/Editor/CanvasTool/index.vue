@@ -71,7 +71,7 @@
         <IconInsertTable class="handler-item" v-tooltip="'Insert a table'" />
       </Popover>
       <IconFormula class="handler-item" v-tooltip="'Insert formula'" @click="latexEditorVisible = true" />
-      <Popover trigger="click" v-model:value="mediaInputVisible" :offset="10">
+      <!-- <Popover trigger="click" v-model:value="mediaInputVisible" :offset="10">
         <template #content>
           <MediaInput 
             @close="mediaInputVisible = false"
@@ -80,7 +80,7 @@
           />
         </template>
         <IconVideoTwo class="handler-item" v-tooltip="'Insert audio and video'" />
-      </Popover>
+      </Popover> -->
     </div>
 
     <div class="right-handler">
