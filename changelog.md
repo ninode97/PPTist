@@ -22,6 +22,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Hidden `Import pptx files(beta), Import pptist file, Reset Slideshow` controls from `left-hand` side top bar menu.
 - Changed label of `Exporting Files` to `Export` within `right-hand` side top bar menu.
 - Changed export type to `pdf` when clicking `Export` within top-left control bar.
+- Hidden `Reset slideshow` within left top-bar menu. 
 
 
 ### Fixed
