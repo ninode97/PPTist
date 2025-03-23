@@ -48,13 +48,13 @@
         <div class="menu-item" v-tooltip="'Slide Show (F5)'" @click="enterScreening()">
           <IconPpt class="icon" />
         </div>
-        <Popover trigger="click" center>
+        <!-- <Popover trigger="click" center>
           <template #content>
             <PopoverMenuItem @click="enterScreeningFromStart()">Start from scratch</PopoverMenuItem>
             <PopoverMenuItem @click="enterScreening()">Start from current page</PopoverMenuItem>
           </template>
           <div class="arrow-btn"><IconDown class="arrow" /></div>
-        </Popover>
+        </Popover> -->
       </div>
       <!-- <div class="menu-item" v-tooltip="'Generate AI PPT'" @click="openAIPPTDialog(); mainMenuVisible = false">
         <span class="text ai">AI</span>
