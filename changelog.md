@@ -18,7 +18,10 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Set PDF export as default when clicking `Export`.
 - Hidden `AI` control in the top bar.
 - Hidden `Insert Audio and Video ` control in the top bar.
-- Hidden `Generate AI PPT` control from `right-hand` side top bar menu.
+- Hidden `Generate AI PPT` control from `left-hand` side top bar menu.
+- Hidden `Import pptx files(beta), Import pptist file, Reset Slideshow` controls from `left-hand` side top bar menu.
+- Changed label of `Exporting Files` to `Export` within `right-hand` side top bar menu.
+- Changed export type to `pdf` when clicking `Export` within top-left control bar.
 
 
 ### Fixed

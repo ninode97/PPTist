@@ -4,19 +4,19 @@
       <Popover trigger="click" placement="bottom-start" v-model:value="mainMenuVisible">
         <template #content>
           <!-- <PopoverMenuItem @click="openAIPPTDialog(); mainMenuVisible = false">Generate AI PPT</PopoverMenuItem> -->
-          <FileInput accept="application/vnd.openxmlformats-officedocument.presentationml.presentation"  @change="files => {
+          <!-- <FileInput accept="application/vnd.openxmlformats-officedocument.presentationml.presentation"  @change="files => {
             importPPTXFile(files)
             mainMenuVisible = false
           }">
             <PopoverMenuItem>Import pptx files (beta)</PopoverMenuItem>
-          </FileInput>
-          <FileInput accept=".pptist"  @change="files => {
+          </FileInput> -->
+          <!-- <FileInput accept=".pptist"  @change="files => {
             importSpecificFile(files)
             mainMenuVisible = false
           }">
             <PopoverMenuItem>Import pptist file</PopoverMenuItem>
-          </FileInput>
-          <PopoverMenuItem @click="setDialogForExport('pptx')">Exporting Files</PopoverMenuItem>
+          </FileInput> -->
+          <PopoverMenuItem @click="setDialogForExport('pdf')">Export</PopoverMenuItem>
           <PopoverMenuItem @click="resetSlides(); mainMenuVisible = false">Reset Slideshow</PopoverMenuItem>
           <PopoverMenuItem @click="openMarkupPanel(); mainMenuVisible = false">Slide type label</PopoverMenuItem>
           <PopoverMenuItem @click="goLink('https://github.com/pipipi-pikachu/PPTist/issues')">Feedback</PopoverMenuItem>
