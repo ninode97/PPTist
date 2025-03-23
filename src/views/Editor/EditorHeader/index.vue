@@ -3,7 +3,7 @@
     <div class="left">
       <Popover trigger="click" placement="bottom-start" v-model:value="mainMenuVisible">
         <template #content>
-          <PopoverMenuItem @click="openAIPPTDialog(); mainMenuVisible = false">Generate AI PPT</PopoverMenuItem>
+          <!-- <PopoverMenuItem @click="openAIPPTDialog(); mainMenuVisible = false">Generate AI PPT</PopoverMenuItem> -->
           <FileInput accept="application/vnd.openxmlformats-officedocument.presentationml.presentation"  @change="files => {
             importPPTXFile(files)
             mainMenuVisible = false
