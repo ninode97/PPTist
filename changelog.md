@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver.org/spec/v2.0.0.html)).
 
+## [v2.1.2] - 2025-03-24
+
+### Added
+- 
+### Changed
+- Incremented version in `package.json`, `package-lock.json`.
+- Moved `server.js` to `server/index.js` 
+
+### Fixed
+- 
+
+### Removed
+-
 
 ## [v2.1.1] - 2025-03-24
 
@@ -14,12 +27,6 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 ### Changed
 - Changed footer to include `LICENSE` that provides more information about the license of the product
 - Incremented version in `package.json`, `package-lock.json`.
-
-### Fixed
-- 
-
-### Removed
--
 
 ## [v2.1.0] - 2025-03-24
 
