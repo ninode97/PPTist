@@ -1,6 +1,7 @@
 export default [
   {
     id: "slide-1-cover",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -131,6 +132,7 @@ export default [
   },
   {
     id: "slide-2-about",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -247,6 +249,7 @@ export default [
   },
   {
     id: "slide-3-agenda",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -471,6 +474,7 @@ export default [
   },
   {
     id: "slide-4-financial-overview",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -600,6 +604,7 @@ export default [
   },
   {
     id: "slide-5-key-metrics",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -915,6 +920,7 @@ export default [
   },
   {
     id: "slide-6-market-analysis",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -1031,6 +1037,7 @@ export default [
   },
   {
     id: "slide-7-product-roadmap",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -1270,6 +1277,7 @@ export default [
   },
   {
     id: "slide-8-team",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -1505,6 +1513,7 @@ export default [
   },
   {
     id: "slide-9-thank-you",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",

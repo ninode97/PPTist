@@ -1,6 +1,7 @@
 export default [
   {
     id: "slide-1-cover",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "shape",
@@ -117,6 +118,7 @@ export default [
   },
   {
     id: "slide-2-overview",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "text",
@@ -232,6 +234,7 @@ export default [
   },
   {
     id: "slide-3-features",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "text",
@@ -484,6 +487,7 @@ export default [
   },
   {
     id: "slide-4-architecture",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "text",
@@ -599,6 +603,7 @@ export default [
   },
   {
     id: "slide-5-deployment",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "text",
@@ -903,6 +908,7 @@ export default [
   },
   {
     id: "slide-6-metrics",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "text",
@@ -1164,6 +1170,7 @@ export default [
   },
   {
     id: "slide-7-conclusion",
+    viewportRatio: 1.41421356,
     elements: [
       {
         type: "shape",

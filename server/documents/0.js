@@ -1,6 +1,7 @@
 export default [
   {
     id: "slide-1",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",
@@ -77,6 +78,7 @@ export default [
   },
   {
     id: "slide-2",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "text",
@@ -178,6 +180,7 @@ export default [
   },
   {
     id: "slide-3",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "text",
@@ -267,6 +270,7 @@ export default [
   },
   {
     id: "slide-4",
+    viewportRatio: 0.5625,
     elements: [
       {
         type: "shape",

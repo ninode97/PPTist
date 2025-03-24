@@ -12,11 +12,15 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Added advanved ppt standard template data `server/documents/1.js`
 - Added advanved ppt Portrait (A4) template data `server/documents/2.js`
 - Added document loader `server/documents/_load.js` that will preload all available templates and allow to retrieve them by function `getTemplateById`.
+- Added automation that detects what is the canvas size based on the preloaded slide data defined in the first slide.
+- Added `viewportRatio` property to json templates `server/documents/*.js`
 
 ### Changed
 - Incremented version in `package.json`, `package-lock.json`.
 - Moved `server.js` to `server/index.js`
 - Changed `server/index.js` endpoint `/assets/data/slides.json` to `/api/documents/:id` in order to allow preloading documents dynamically.
+- Changed the loading of `PPTist` actual editor data, it will now be loading data from remote server based on document id, additionally the page will fail if `window.location.pathname` is not matching the pattern of `/^\/documents\/[^/]+$/`
+
 
 
 ### Fixed
