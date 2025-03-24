@@ -11,10 +11,12 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Added basic ppt standard template data `server/documents/0.js`
 - Added advanved ppt standard template data `server/documents/1.js`
 - Added advanved ppt Portrait (A4) template data `server/documents/2.js`
+- Added document loader `server/documents/_load.js` that will preload all available templates and allow to retrieve them by function `getTemplateById`.
 
 ### Changed
 - Incremented version in `package.json`, `package-lock.json`.
-- Moved `server.js` to `server/index.js` 
+- Moved `server.js` to `server/index.js`
+
 
 ### Fixed
 - 
