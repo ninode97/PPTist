@@ -24,6 +24,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Changed label within `src/views/Editor/Thumbnails/index.vue` to `Preview (F5)`.
 - Added missing tooltips `src/views/Editor/Thumbnails/index.vue`.
 - Added shadow to left-hand-sidebar and increased z-index `src/views/Editor/Thumbnails/index.vue`.
+- Added shadow to `src/views/Editor/CanvasTool/index.vue`.
 
 ### Fixed
 - 

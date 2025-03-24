@@ -423,9 +423,8 @@ const contextmenusThumbnailItem = (): ContextmenuItem[] => {
     background-color: white;
     display: flex;
     margin-left:30px;
-    border-radius: 12px;
-  box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.25), 
-              -10px -10px 30px rgba(255, 255, 255, 0.7);
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.15), 
+    -10px -10px 30px rgba(255, 255, 255, 0.6);
     
 
     
