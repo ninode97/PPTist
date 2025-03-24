@@ -16,6 +16,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 ### Changed
 - Incremented version in `package.json`, `package-lock.json`.
 - Moved `server.js` to `server/index.js`
+- Changed `server/index.js` endpoint `/assets/data/slides.json` to `/api/documents/:id` in order to allow preloading documents dynamically.
 
 
 ### Fixed
