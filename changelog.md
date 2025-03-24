@@ -8,7 +8,10 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 ## [v2.1.2] - 2025-03-24
 
 ### Added
-- 
+- Added basic ppt standard template data `server/documents/0.js`
+- Added advanved ppt standard template data `server/documents/1.js`
+- Added advanved ppt Portrait (A4) template data `server/documents/2.js`
+
 ### Changed
 - Incremented version in `package.json`, `package-lock.json`.
 - Moved `server.js` to `server/index.js` 
