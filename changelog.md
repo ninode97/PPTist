@@ -14,6 +14,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Added document loader `server/documents/_load.js` that will preload all available templates and allow to retrieve them by function `getTemplateById`.
 - Added automation that detects what is the canvas size based on the preloaded slide data defined in the first slide.
 - Added `viewportRatio` property to json templates `server/documents/*.js`
+- Added a dev function that allows to print JSON state of the slides when `pdf export popup` was triggered.
 
 ### Changed
 - Incremented version in `package.json`, `package-lock.json`.
