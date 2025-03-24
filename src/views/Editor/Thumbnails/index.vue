@@ -21,7 +21,7 @@
           </template>
           <div class="handler-item"><IconDown /></div>
         </Popover>
-        <div class="handler-item" v-tooltip="'Slide Show (F5)'" @click="enterScreening()">
+        <div class="handler-item" v-tooltip="'Preview (F5)'" @click="enterScreening()">
             <IconPpt class="icon" />
         </div>
         <div class="handler-item" v-tooltip="'Export'" @click="setDialogForExport('pdf')">
