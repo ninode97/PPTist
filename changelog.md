@@ -22,7 +22,7 @@ and this project adheres to([https://semver.org/spec/v2.0.0.html](https://semver
 - Changed the loading of `PPTist` actual editor data, it will now be loading data from remote server based on document id, additionally the page will fail if `window.location.pathname` is not matching the pattern of `/^\/documents\/[^/]+$/`
 - Hidden `Aspect Ratio Selector` and `Canvas resolution label` within `right-hand-sidebar`.
 - Changed label within `src/views/Editor/Thumbnails/index.vue` to `Preview (F5)`.
-
+- Added missing tooltips `src/views/Editor/Thumbnails/index.vue`.
 
 
 ### Fixed

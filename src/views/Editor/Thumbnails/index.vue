@@ -12,14 +12,20 @@
           <PopoverMenuItem @click="setDialogForExport('pdf')">Export</PopoverMenuItem>
           <PopoverMenuItem @click="mainMenuVisible = false; hotkeyDrawerVisible = true">Hotkeys</PopoverMenuItem>
         </template>
-        <div class="handler-item"><IconHamburgerButton class="icon" /></div>
+        <div class="handler-item" v-tooltip="'App Menu'"><IconHamburgerButton class="icon" /></div>
       </Popover>
-        <div class="handler-item" @click="createSlide()"><IconPlus class="icon" /></div>
+      <div class="handler-item" v-tooltip="'Add Slide'" @click="createSlide()">
+          <IconPlus class="icon" />
+      </div>
+      
         <Popover trigger="click" placement="bottom-start" v-model:value="presetLayoutPopoverVisible" center>
           <template #content>
             <Templates @select="slide => { createSlideByTemplate(slide); presetLayoutPopoverVisible = false }" />
           </template>
-          <div class="handler-item"><IconDown /></div>
+          <div class="handler-item" v-tooltip="'Insert Template'">
+            <div class="handler-item"><IconDown /></div>
+          </div>
+          
         </Popover>
         <div class="handler-item" v-tooltip="'Preview (F5)'" @click="enterScreening()">
             <IconPpt class="icon" />
