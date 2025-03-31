@@ -54,7 +54,4 @@ app.get("*", (req, res) => {
   res.sendFile(indexHtml);
 });
 
-app.listen(3001, () => {
-  console.log(`Serving: http://127.0.0.1:3001`);
-  console.log(`Static files served from: ${staticDir}`);
-});
+app.listen(3001, "0.0.0.0", () => console.log("Server running on port 3001"));
